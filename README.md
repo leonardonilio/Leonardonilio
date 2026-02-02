@@ -1,7 +1,6 @@
-#👋 Leonardo Nilio dos Sanros
-
-**`Desenvolvedor FullSatck`**
+#👋 Leonardo Nilio dos Santos
 ---
+**`Desenvolvedor FullSatck`**
 Sou um desenvolvedor sem evolução, sempre explorando novas tecnologias. Tenho interesse especial em desenvolver soluções práticas, integrando diferentes ferramentas e ambientes, seja para automatizar tarefas, analisar dados ou construir interfaces funcionais. Busco aprimorar minhas habilidades todos os dias e compartilhar aqui no GitHub meus projetos, mostrando minha evolução na área de tecnologia.
 
 ---
