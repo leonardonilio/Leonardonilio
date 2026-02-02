@@ -92,5 +92,4 @@ Sou um desenvolvedor em evolução, sempre explorando novas tecnologias. Tenho i
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <br/>
 <br/>
-### Estatísticas 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
