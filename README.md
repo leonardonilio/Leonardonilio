@@ -1,16 +1,51 @@
-## Hi there 👋
+# Leonardo Nilio
+---
+**'Desenvolvedor FullSatck'**
+Sou um desenvolvedor em evolução, sempre explorando novas tecnologias. Tenho interesse especial em desenvolver soluções práticas, integrando diferentes ferramentas e ambientes, seja para automatizar tarefas, analisar dados ou construir interfaces funcionais. Busco aprimorar minhas habilidades todos os dias e compartilhar aqui no GitHub meus projetos, mostrando minha evolução na área de tecnologia.
 
-<!--
-**leonardonilio/Leonardonilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 🤖 Linguagens e Tecnologias
+<img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
-Here are some ideas to get you started:
+<img 
+  align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
