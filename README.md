@@ -65,4 +65,20 @@ Sou um desenvolvedor em evolução, sempre explorando novas tecnologias. Tenho i
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
+
+  <img
+  align="left"
+  alt="firebase"
+  title="firebase"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  
+  <img 
+  align="left"
+  alt="androidstudio"
+  title="androidstudio"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+                    
