@@ -57,3 +57,12 @@ Sou um desenvolvedor em evolução, sempre explorando novas tecnologias. Tenho i
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  
+  <img
+  align="left"
+  alt="git"
+  title="git"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
