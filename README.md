@@ -66,6 +66,15 @@ Sou um desenvolvedor em evolução, sempre explorando novas tecnologias. Tenho i
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
+  
+  <img
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
   <img
   align="left"
   alt="firebase"
