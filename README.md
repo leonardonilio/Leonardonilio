@@ -5,6 +5,14 @@
 Sou um desenvolvedor em evolução, sempre explorando novas tecnologias. Tenho interesse especial em desenvolver soluções práticas, integrando diferentes ferramentas e ambientes, seja para automatizar tarefas, analisar dados ou construir interfaces funcionais. Busco aprimorar minhas habilidades todos os dias e compartilhar aqui no GitHub minha trajetória e meus projetos, mostrando minha evolução na área de tecnologia.
 
 ---
+
+## 📊 GitHub Stats
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonilio&show_icons=true&theme=radical)  
+
+### 🔝 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonilio&layout=compact&theme=radical)
+
+---
 ### 🤖 Linguagens e Tecnologias
 <img 
   align="left"
