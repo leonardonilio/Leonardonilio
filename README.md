@@ -7,7 +7,7 @@ Sou um desenvolvedor em evolução, sempre explorando novas tecnologias. Tenho i
 ---
 
 ## 📊 GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonilio&show_icons=true&theme=radical)  
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonilio&show_icons=true&theme=radical)  
 
 ### 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonilio&layout=compact&theme=radical)
